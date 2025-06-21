@@ -59,8 +59,7 @@ Virtual-TA
 │   ├── 6_topics_embedding.py
 │   └── 7_content_embedding.py
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
 
 ---
