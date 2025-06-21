@@ -13,7 +13,6 @@ Virtual-TA is a Retrieval-Augmented Generation (RAG) application designed to ass
   - [🚀 Option 1: Quick Start with Pre-processed Data](#option-1-quick-start-with-pre-processed-data)
   - [🔧 Option 2: Complete Setup from Scratch](#option-2-complete-setup-from-scratch)
 - [☁️ Cloud Deployment (AWS)](#cloud-deployment-aws)
-- [📄 License](#license)
 
 ---
 
