@@ -91,7 +91,7 @@ Process and embed data from scratch:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Private-Aayansh/Virtual-TA.git
+   git clone https://github.com/Yadav-Aayansh/Virtual-TA.git
    cd Virtual-TA
    ```
 
@@ -184,7 +184,7 @@ Deploy Virtual-TA on AWS EC2 for scalability:
 4. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Private-Aayansh/Virtual-TA.git
+   git clone https://github.com/Yadav-Aayansh/Virtual-TA.git
    cd Virtual-TA
    ```
 
