@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Additional
+extra/
+raw-data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other common ignores
+.pytest_cache/
+*.egg-info/
+.env
+.DS_Store
+
+k.md
+ok.md
